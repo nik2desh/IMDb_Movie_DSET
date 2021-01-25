@@ -1,2 +1,2 @@
 # IMDb_Movie_DSET
-This is an assignment and a small EDA project
+#This is EDA on an IMDb movies of last decade
